@@ -1,0 +1,30 @@
+Moisture sensor test - Stability
+
+
+Sensor probe : 
+Arduino type
+
+Drive : 
+2k load resistors
+Algorithm : OSC3 (0,1,0,-1), (10,490,10,490) (ms) cycle timing, 1 min average value 
+Measuring at 1,2,4 and 8 ms after drive raising edge
+
+Raw ADC values are from 0 to 4095 :
+
+  1437 for 1.330 V measured with a voltmeter.
+  1319 for 1.231 V measured with a voltmeter.
+  2775 for 2.437 V ...
+  2790 for 2.445 V
+  2801 for 2.458 V
+     0 for 0.138 V
+
+Test solution :
+1 glass distilled water + 6 drop saturated salt solution (2-3 k, 1964 *uS/cm)
+
+Test Timeline :  
+  0.00000000000000 Test Start : 2017/04/06 10:28, 21.7 °C (ambiant)
+  5.48333333333333 15:58, 25.3
+  X.XXXXXXXXXXXXXX Test End   : 2017/04/06 XX:XX, XX.X °C (ambiant)
+
+Collected Data :
+
