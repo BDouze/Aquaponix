@@ -1,7 +1,11 @@
 # Aquaponix
-Aquaponic / Hydroponic automation and advanced process control
+This is an aborted project.
+Nothing really insteresting in here
 
-Copyright (C) 2017 Fabrice Bellamy & Guillaume Gaillard
+The idea was to develop a system for Aquaponic / Hydroponic automation and advanced process control
+
+Started in March 2017 by Douze B & Gui-Gui
+Aborted a couple of months after
 
     All programs in this repository are free software: you can redistribute them and/or modify
     them under the terms of the GNU Affero General Public License as published
